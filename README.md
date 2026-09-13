@@ -143,25 +143,7 @@ Security
 ---
 
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<a href="https://github.com/raghava2003001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-</a>
-
-<a href="https://github.com/raghava2003001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
-
-</div>
 
 
 ## 📈 My Development Journey
